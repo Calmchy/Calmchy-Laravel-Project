@@ -91,10 +91,10 @@ export default function About() {
                                         – an instrument for writing which symbolizes freedom and independence to soar and be able to look at things from a wider perspective.
                                     </li>
                                     <li>
-                                    <strong className="text-foreground">Bee</strong> – symbol for the Municipality of Abuyog, and;
+                                        <strong className="text-foreground">Bee</strong> – symbol for the Municipality of Abuyog, and;
                                     </li>
                                     <li>
-                                    <strong className="text-foreground">1997</strong> the year the college was established.
+                                        <strong className="text-foreground">1997</strong> the year the college was established.
                                     </li>
                                     </ul>
                                     
