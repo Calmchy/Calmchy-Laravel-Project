@@ -78,24 +78,24 @@ export default function About() {
                                 </div>
                                     <ul className="space-y-4 text-sm leading-7 text-muted-foreground">
                                         <li>
-                                        <strong className="text-foreground">Laurel Wreath</strong> (Green) – a symbol of victory and honor. It symbolizes ACC’s triumph against ignorance and success in the search for truth and knowledge
+                                            <strong className="text-foreground">Laurel Wreath</strong> (Green) – a symbol of victory and honor. It symbolizes ACC’s triumph against ignorance and success in the search for truth and knowledge
+                                            </li>
+                                            <li>
+                                                <strong className="text-foreground">Torch</strong> – an emblem of enlightenment and hope. It symbolizes the vision of ACC to provide light as a source of enlightenment to all students.
+                                            </li>
+                                            <li>
+                                            <strong className="text-foreground">Scroll</strong> – an emblem of wisdom. It symbolizes translating academic work into meaningful presentations of expertise and scholarly work
                                         </li>
                                         <li>
-                                            <strong className="text-foreground">Torch</strong> – an emblem of enlightenment and hope. It symbolizes the vision of ACC to provide light as a source of enlightenment to all students.
+                                            <strong className="text-foreground">Quill Pen and Ink</strong>
+                                            – an instrument for writing which symbolizes freedom and independence to soar and be able to look at things from a wider perspective.
                                         </li>
                                         <li>
-                                        <strong className="text-foreground">Scroll</strong> – an emblem of wisdom. It symbolizes translating academic work into meaningful presentations of expertise and scholarly work
-                                    </li>
-                                    <li>
-                                        <strong className="text-foreground">Quill Pen and Ink</strong>
-                                        – an instrument for writing which symbolizes freedom and independence to soar and be able to look at things from a wider perspective.
-                                    </li>
-                                    <li>
-                                        <strong className="text-foreground">Bee</strong> – symbol for the Municipality of Abuyog, and;
-                                    </li>
-                                    <li>
-                                        <strong className="text-foreground">1997</strong> the year the college was established.
-                                    </li>
+                                            <strong className="text-foreground">Bee</strong> – symbol for the Municipality of Abuyog, and;
+                                        </li>
+                                        <li>
+                                            <strong className="text-foreground">1997</strong> the year the college was established.
+                                        </li>
                                     </ul>
                                     
                                 </div>
