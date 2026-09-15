@@ -7,6 +7,7 @@ export default function Academe() {
         <>
             <Head title="Academe" />
             <p>The Academe page area....</p>
+            <h1>Pull</h1>
         </>
     );
 }
